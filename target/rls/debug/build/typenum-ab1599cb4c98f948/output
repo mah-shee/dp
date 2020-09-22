@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/masatoshi/Documents/atcoder/dp/target/rls/debug/build/typenum-ab1599cb4c98f948/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/masatoshi/Documents/atcoder/dp/target/rls/debug/build/typenum-ab1599cb4c98f948/out/op.rs
